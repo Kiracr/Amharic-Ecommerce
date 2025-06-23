@@ -39,7 +39,7 @@ ChromeDriver
 Installation
 Clone the repository:
 Generated bash
-git clone https://github.com/Gebrehiwot-Tesfaye/Amharic-ecommerce-data-extractor.git
+
 cd Amharic-ecommerce-data-extractor
 Use code with caution.
 Bash
