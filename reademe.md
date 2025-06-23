@@ -1,9 +1,5 @@
 Amharic E-commerce Data Extractor
-![alt text](https://img.shields.io/badge/python-3.8+-blue.svg)
 
-![alt text](https://img.shields.io/badge/framework-Scrapy-orange.svg)
-
-![alt text](https://img.shields.io/badge/license-MIT-green.svg)
 A web scraping project designed to extract product and service data from popular Ethiopian e-commerce websites. The primary goal is to build a large-scale, structured dataset for the Amharic language to support Natural Language Processing (NLP) research and development.
 🎯 Project Motivation
 The field of Natural Language Processing has seen incredible advancements, but progress for low-resource languages like Amharic is often hindered by a lack of quality, domain-specific data. This project aims to address this gap by creating a valuable corpus from real-world e-commerce listings, providing a foundational resource for tasks like:
